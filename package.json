@@ -1,0 +1,13 @@
+{
+  "name": "calcmachine",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/index.min.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "webpack": "^5.105.2",
+    "webpack-cli": "^6.0.1"
+  }
+}
